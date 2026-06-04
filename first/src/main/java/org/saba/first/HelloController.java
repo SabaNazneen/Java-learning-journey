@@ -1,6 +1,6 @@
 package org.saba.first;
 
-import org.saba.first.app.User;
+import org.saba.first.app.model.User;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
